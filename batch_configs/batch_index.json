@@ -1,0 +1,289 @@
+{
+  "batch_info": {
+    "total_batches": 31,
+    "batch_size": 1000,
+    "total_pairs": 30317,
+    "created_at": "2025-09-01T22:12:03.467545"
+  },
+  "batches": [
+    {
+      "batch_number": 1,
+      "directory": "batch_001",
+      "pairs_count": 1000,
+      "start_index": 0,
+      "end_index": 999,
+      "mapping_file": "batch_001/video_image_mapping.json",
+      "summary_file": "batch_001/batch_summary.txt"
+    },
+    {
+      "batch_number": 2,
+      "directory": "batch_002",
+      "pairs_count": 1000,
+      "start_index": 1000,
+      "end_index": 1999,
+      "mapping_file": "batch_002/video_image_mapping.json",
+      "summary_file": "batch_002/batch_summary.txt"
+    },
+    {
+      "batch_number": 3,
+      "directory": "batch_003",
+      "pairs_count": 1000,
+      "start_index": 2000,
+      "end_index": 2999,
+      "mapping_file": "batch_003/video_image_mapping.json",
+      "summary_file": "batch_003/batch_summary.txt"
+    },
+    {
+      "batch_number": 4,
+      "directory": "batch_004",
+      "pairs_count": 1000,
+      "start_index": 3000,
+      "end_index": 3999,
+      "mapping_file": "batch_004/video_image_mapping.json",
+      "summary_file": "batch_004/batch_summary.txt"
+    },
+    {
+      "batch_number": 5,
+      "directory": "batch_005",
+      "pairs_count": 1000,
+      "start_index": 4000,
+      "end_index": 4999,
+      "mapping_file": "batch_005/video_image_mapping.json",
+      "summary_file": "batch_005/batch_summary.txt"
+    },
+    {
+      "batch_number": 6,
+      "directory": "batch_006",
+      "pairs_count": 1000,
+      "start_index": 5000,
+      "end_index": 5999,
+      "mapping_file": "batch_006/video_image_mapping.json",
+      "summary_file": "batch_006/batch_summary.txt"
+    },
+    {
+      "batch_number": 7,
+      "directory": "batch_007",
+      "pairs_count": 1000,
+      "start_index": 6000,
+      "end_index": 6999,
+      "mapping_file": "batch_007/video_image_mapping.json",
+      "summary_file": "batch_007/batch_summary.txt"
+    },
+    {
+      "batch_number": 8,
+      "directory": "batch_008",
+      "pairs_count": 1000,
+      "start_index": 7000,
+      "end_index": 7999,
+      "mapping_file": "batch_008/video_image_mapping.json",
+      "summary_file": "batch_008/batch_summary.txt"
+    },
+    {
+      "batch_number": 9,
+      "directory": "batch_009",
+      "pairs_count": 1000,
+      "start_index": 8000,
+      "end_index": 8999,
+      "mapping_file": "batch_009/video_image_mapping.json",
+      "summary_file": "batch_009/batch_summary.txt"
+    },
+    {
+      "batch_number": 10,
+      "directory": "batch_010",
+      "pairs_count": 1000,
+      "start_index": 9000,
+      "end_index": 9999,
+      "mapping_file": "batch_010/video_image_mapping.json",
+      "summary_file": "batch_010/batch_summary.txt"
+    },
+    {
+      "batch_number": 11,
+      "directory": "batch_011",
+      "pairs_count": 1000,
+      "start_index": 10000,
+      "end_index": 10999,
+      "mapping_file": "batch_011/video_image_mapping.json",
+      "summary_file": "batch_011/batch_summary.txt"
+    },
+    {
+      "batch_number": 12,
+      "directory": "batch_012",
+      "pairs_count": 1000,
+      "start_index": 11000,
+      "end_index": 11999,
+      "mapping_file": "batch_012/video_image_mapping.json",
+      "summary_file": "batch_012/batch_summary.txt"
+    },
+    {
+      "batch_number": 13,
+      "directory": "batch_013",
+      "pairs_count": 1000,
+      "start_index": 12000,
+      "end_index": 12999,
+      "mapping_file": "batch_013/video_image_mapping.json",
+      "summary_file": "batch_013/batch_summary.txt"
+    },
+    {
+      "batch_number": 14,
+      "directory": "batch_014",
+      "pairs_count": 1000,
+      "start_index": 13000,
+      "end_index": 13999,
+      "mapping_file": "batch_014/video_image_mapping.json",
+      "summary_file": "batch_014/batch_summary.txt"
+    },
+    {
+      "batch_number": 15,
+      "directory": "batch_015",
+      "pairs_count": 1000,
+      "start_index": 14000,
+      "end_index": 14999,
+      "mapping_file": "batch_015/video_image_mapping.json",
+      "summary_file": "batch_015/batch_summary.txt"
+    },
+    {
+      "batch_number": 16,
+      "directory": "batch_016",
+      "pairs_count": 1000,
+      "start_index": 15000,
+      "end_index": 15999,
+      "mapping_file": "batch_016/video_image_mapping.json",
+      "summary_file": "batch_016/batch_summary.txt"
+    },
+    {
+      "batch_number": 17,
+      "directory": "batch_017",
+      "pairs_count": 1000,
+      "start_index": 16000,
+      "end_index": 16999,
+      "mapping_file": "batch_017/video_image_mapping.json",
+      "summary_file": "batch_017/batch_summary.txt"
+    },
+    {
+      "batch_number": 18,
+      "directory": "batch_018",
+      "pairs_count": 1000,
+      "start_index": 17000,
+      "end_index": 17999,
+      "mapping_file": "batch_018/video_image_mapping.json",
+      "summary_file": "batch_018/batch_summary.txt"
+    },
+    {
+      "batch_number": 19,
+      "directory": "batch_019",
+      "pairs_count": 1000,
+      "start_index": 18000,
+      "end_index": 18999,
+      "mapping_file": "batch_019/video_image_mapping.json",
+      "summary_file": "batch_019/batch_summary.txt"
+    },
+    {
+      "batch_number": 20,
+      "directory": "batch_020",
+      "pairs_count": 1000,
+      "start_index": 19000,
+      "end_index": 19999,
+      "mapping_file": "batch_020/video_image_mapping.json",
+      "summary_file": "batch_020/batch_summary.txt"
+    },
+    {
+      "batch_number": 21,
+      "directory": "batch_021",
+      "pairs_count": 1000,
+      "start_index": 20000,
+      "end_index": 20999,
+      "mapping_file": "batch_021/video_image_mapping.json",
+      "summary_file": "batch_021/batch_summary.txt"
+    },
+    {
+      "batch_number": 22,
+      "directory": "batch_022",
+      "pairs_count": 1000,
+      "start_index": 21000,
+      "end_index": 21999,
+      "mapping_file": "batch_022/video_image_mapping.json",
+      "summary_file": "batch_022/batch_summary.txt"
+    },
+    {
+      "batch_number": 23,
+      "directory": "batch_023",
+      "pairs_count": 1000,
+      "start_index": 22000,
+      "end_index": 22999,
+      "mapping_file": "batch_023/video_image_mapping.json",
+      "summary_file": "batch_023/batch_summary.txt"
+    },
+    {
+      "batch_number": 24,
+      "directory": "batch_024",
+      "pairs_count": 1000,
+      "start_index": 23000,
+      "end_index": 23999,
+      "mapping_file": "batch_024/video_image_mapping.json",
+      "summary_file": "batch_024/batch_summary.txt"
+    },
+    {
+      "batch_number": 25,
+      "directory": "batch_025",
+      "pairs_count": 1000,
+      "start_index": 24000,
+      "end_index": 24999,
+      "mapping_file": "batch_025/video_image_mapping.json",
+      "summary_file": "batch_025/batch_summary.txt"
+    },
+    {
+      "batch_number": 26,
+      "directory": "batch_026",
+      "pairs_count": 1000,
+      "start_index": 25000,
+      "end_index": 25999,
+      "mapping_file": "batch_026/video_image_mapping.json",
+      "summary_file": "batch_026/batch_summary.txt"
+    },
+    {
+      "batch_number": 27,
+      "directory": "batch_027",
+      "pairs_count": 1000,
+      "start_index": 26000,
+      "end_index": 26999,
+      "mapping_file": "batch_027/video_image_mapping.json",
+      "summary_file": "batch_027/batch_summary.txt"
+    },
+    {
+      "batch_number": 28,
+      "directory": "batch_028",
+      "pairs_count": 1000,
+      "start_index": 27000,
+      "end_index": 27999,
+      "mapping_file": "batch_028/video_image_mapping.json",
+      "summary_file": "batch_028/batch_summary.txt"
+    },
+    {
+      "batch_number": 29,
+      "directory": "batch_029",
+      "pairs_count": 1000,
+      "start_index": 28000,
+      "end_index": 28999,
+      "mapping_file": "batch_029/video_image_mapping.json",
+      "summary_file": "batch_029/batch_summary.txt"
+    },
+    {
+      "batch_number": 30,
+      "directory": "batch_030",
+      "pairs_count": 1000,
+      "start_index": 29000,
+      "end_index": 29999,
+      "mapping_file": "batch_030/video_image_mapping.json",
+      "summary_file": "batch_030/batch_summary.txt"
+    },
+    {
+      "batch_number": 31,
+      "directory": "batch_031",
+      "pairs_count": 317,
+      "start_index": 30000,
+      "end_index": 30316,
+      "mapping_file": "batch_031/video_image_mapping.json",
+      "summary_file": "batch_031/batch_summary.txt"
+    }
+  ]
+}

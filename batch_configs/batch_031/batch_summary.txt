@@ -1,0 +1,14 @@
+Batch 031 Summary
+==============================
+
+Pairs in batch: 317
+Index range: 30000 - 30316
+Created: 2025-09-01 22:12:03
+
+Sample pairs:
+    1. 000005072776.0_processed.mp4 -> image_00003163.jpg
+    2. 000005072777.0_processed.mp4 -> image_00002649.jpg
+    3. 000005072778.0_processed.mp4 -> image_00003982.jpg
+    4. 000005072779.0_processed.mp4 -> image_00000232.jpg
+    5. 000005072780.0_processed.mp4 -> image_00004025.jpg
+  ... and 312 more pairs

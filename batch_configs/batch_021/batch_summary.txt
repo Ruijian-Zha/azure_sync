@@ -1,0 +1,14 @@
+Batch 021 Summary
+==============================
+
+Pairs in batch: 1000
+Index range: 20000 - 20999
+Created: 2025-09-01 22:12:03
+
+Sample pairs:
+    1. 000005040643.0_processed.mp4 -> image_00004357.jpg
+    2. 000005040644.0_processed.mp4 -> image_00002288.jpg
+    3. 000005040645.0_processed.mp4 -> image_00003174.jpg
+    4. 000005040647.0_processed.mp4 -> image_00000684.jpg
+    5. 000005040648.0_processed.mp4 -> image_00001073.jpg
+  ... and 995 more pairs

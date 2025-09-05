@@ -1,0 +1,45 @@
+# Sensitive credentials and keys
+credentials/.env
+*.key
+*.pem
+*.p12
+
+# Azure storage account keys - NEVER COMMIT
+*AccountKey*
+*connection_string*
+
+# Temporary files and logs
+logs/*.log
+*.tmp
+*.temp
+
+# Large data files
+downloads/
+*.mp4
+*.avi
+*.mov
+*.png
+*.jpg
+*.jpeg
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
